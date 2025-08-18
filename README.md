@@ -11,7 +11,7 @@ I love building real-time apps, exploring algorithms, and solving problems throu
 - 🔭 Currently sharpening my **DSA skills** for stronger problem-solving and competitive programming.  
 - 🌱 Exploring **AI/ML**.  
 - 💡 Strong interest in **system design, algorithms, and scalable architectures**.  
-- 📫 Reach me at **[karanshrivastava@example.com](mailto:kshrivastava002@gmail.com)**
+- 📫 Reach me at **[kshrivastava002@gmail.com](mailto:kahrivastava002@gmail.com)**
 - ⚡ Fun fact: I break things just to fix them better 🚀  
 
 ---
@@ -72,16 +72,6 @@ I love building real-time apps, exploring algorithms, and solving problems throu
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/002karan/002karan/output/snake.svg)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=002karan&icon=1&color=8)](https://visitcount.itsvg.in)
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/karan.______.x) 
