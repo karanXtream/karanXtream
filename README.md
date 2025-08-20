@@ -67,10 +67,27 @@ I love building real-time apps, exploring algorithms, and solving problems throu
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Coding GIF"/>
 </div>
 
----
 
-### ✍️ Random Dev Quote
+
+## 🔥Leetcode Streak 
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kshrivastava002?ext=heatmap)
+
+</div>
+
+
+
+
+## ✍️  Dev Quote
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+</div>
+
+
+
 
 
 ## 🌐 Socials:
@@ -78,6 +95,8 @@ I love building real-time apps, exploring algorithms, and solving problems throu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkaranshrivastava/) 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@karanshrivastava) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshrivastava002@gmail.com) 
+
+
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karanshrivastava) 
